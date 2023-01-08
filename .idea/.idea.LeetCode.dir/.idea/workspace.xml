@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5bee08-158d-4bea-b217-1ef489948d55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MaximumSubarray_53/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-TwoSum/main.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1-TwoSum/readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1523-CountOddNumbersInAnIntervalRange/main.cs" beforeDir="false" />
@@ -21,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/876-MiddleOfTheLinkedList/main.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/922-SortArrayByParityII/main.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/977-SquaresOfASortedArray/main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
