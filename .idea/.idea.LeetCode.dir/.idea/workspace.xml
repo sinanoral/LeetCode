@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a5bee08-158d-4bea-b217-1ef489948d55" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/MaximumSubarray_53/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoSum_1/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-TwoSum/main.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1-TwoSum/readme.md" beforeDir="false" />
