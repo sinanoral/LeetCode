@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum_1", "TwoSum_1\TwoSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray_88", "MergeSortedArray_88\MergeSortedArray_88.csproj", "{5087682D-4091-4C80-AA77-00C10CDE198E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArraysII_350", "IntersectionOfTwoArraysII_350\IntersectionOfTwoArraysII_350.csproj", "{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{5087682D-4091-4C80-AA77-00C10CDE198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5087682D-4091-4C80-AA77-00C10CDE198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5087682D-4091-4C80-AA77-00C10CDE198E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
