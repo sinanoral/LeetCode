@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote_383", "RansomNot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram_242", "ValidAnagram_242\ValidAnagram_242.csproj", "{0D14D2C5-16A7-4036-8A9F-DB9170AB9E04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle_141", "LinkedListCycle_141\LinkedListCycle_141.csproj", "{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{0D14D2C5-16A7-4036-8A9F-DB9170AB9E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D14D2C5-16A7-4036-8A9F-DB9170AB9E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D14D2C5-16A7-4036-8A9F-DB9170AB9E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
