@@ -1,30 +1,35 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate_217", "ContainsDuplicate_217\ContainsDuplicate_217.csproj", "{01E3B30B-1342-4BC6-B697-6E6C0913D9F5}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate_217", "ContainsDuplicate_217\ContainsDuplicate_217.csproj", "{01E3B30B-1342-4BC6-B697-6E6C0913D9F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray_53", "MaximumSubarray_53\MaximumSubarray_53.csproj", "{A7E9926C-C4FD-420B-B396-68646F934366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubarray_53", "MaximumSubarray_53\MaximumSubarray_53.csproj", "{A7E9926C-C4FD-420B-B396-68646F934366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum_1", "TwoSum_1\TwoSum_1.csproj", "{70115168-78FA-43DA-86B4-416C1DB8FA1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum_1", "TwoSum_1\TwoSum_1.csproj", "{70115168-78FA-43DA-86B4-416C1DB8FA1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray_88", "MergeSortedArray_88\MergeSortedArray_88.csproj", "{5087682D-4091-4C80-AA77-00C10CDE198E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortedArray_88", "MergeSortedArray_88\MergeSortedArray_88.csproj", "{5087682D-4091-4C80-AA77-00C10CDE198E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArraysII_350", "IntersectionOfTwoArraysII_350\IntersectionOfTwoArraysII_350.csproj", "{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionOfTwoArraysII_350", "IntersectionOfTwoArraysII_350\IntersectionOfTwoArraysII_350.csproj", "{BAF5F6BE-00FD-45FF-B3B2-24CB5F2999FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock_121", "BestTimeToBuyAndSellStock_121\BestTimeToBuyAndSellStock_121.csproj", "{C5D35840-12AF-4B0A-AD61-4D81A33DB9FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock_121", "BestTimeToBuyAndSellStock_121\BestTimeToBuyAndSellStock_121.csproj", "{C5D35840-12AF-4B0A-AD61-4D81A33DB9FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReshapeTheMatrix_566", "ReshapeTheMatrix_566\ReshapeTheMatrix_566.csproj", "{85A7E0EC-261A-45C3-9977-CABDC5ABDCF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReshapeTheMatrix_566", "ReshapeTheMatrix_566\ReshapeTheMatrix_566.csproj", "{85A7E0EC-261A-45C3-9977-CABDC5ABDCF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle_118", "PascalsTriangle_118\PascalsTriangle_118.csproj", "{86056BBA-516A-4349-8EA8-A274A9FA754D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalsTriangle_118", "PascalsTriangle_118\PascalsTriangle_118.csproj", "{86056BBA-516A-4349-8EA8-A274A9FA754D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchA2DMatrix_74", "SearchA2DMatrix_74\SearchA2DMatrix_74.csproj", "{33E487BB-C7BC-4C80-8DF2-7ED2BD291F65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchA2DMatrix_74", "SearchA2DMatrix_74\SearchA2DMatrix_74.csproj", "{33E487BB-C7BC-4C80-8DF2-7ED2BD291F65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInString_387", "FirstUniqueCharacterInString_387\FirstUniqueCharacterInString_387.csproj", "{0F3C42B4-9D77-4043-A41B-28F26355AA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstUniqueCharacterInString_387", "FirstUniqueCharacterInString_387\FirstUniqueCharacterInString_387.csproj", "{0F3C42B4-9D77-4043-A41B-28F26355AA1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote_383", "RansomNote_383\RansomNote_383.csproj", "{578E1FEA-95AC-4F31-ACD8-5B2F8A110A53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote_383", "RansomNote_383\RansomNote_383.csproj", "{578E1FEA-95AC-4F31-ACD8-5B2F8A110A53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram_242", "ValidAnagram_242\ValidAnagram_242.csproj", "{0D14D2C5-16A7-4036-8A9F-DB9170AB9E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram_242", "ValidAnagram_242\ValidAnagram_242.csproj", "{0D14D2C5-16A7-4036-8A9F-DB9170AB9E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle_141", "LinkedListCycle_141\LinkedListCycle_141.csproj", "{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListCycle_141", "LinkedListCycle_141\LinkedListCycle_141.csproj", "{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses_20", "ValidParentheses_20\ValidParentheses_20.csproj", "{EAEEE749-55D4-464B-A2B6-1C94303EC302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -84,5 +89,15 @@ Global
 		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1266D6E-FE42-42FE-A647-CC8EEFE49F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEEE749-55D4-464B-A2B6-1C94303EC302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEEE749-55D4-464B-A2B6-1C94303EC302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEEE749-55D4-464B-A2B6-1C94303EC302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEEE749-55D4-464B-A2B6-1C94303EC302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0D5EC6-C9FB-4F4C-8CB6-17D794FB5C76}
 	EndGlobalSection
 EndGlobal
