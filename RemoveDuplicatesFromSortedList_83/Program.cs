@@ -1,10 +1,37 @@
-﻿namespace RemoveDuplicatesFromSortedList_83
+﻿namespace RemoveDuplicatesFromSortedList_83;
+
+public class ListNode
 {
-    internal class Program
+    public int val;
+    public ListNode next;
+    public ListNode(int val = 0, ListNode next = null)
     {
-        static void Main(string[] args)
+        this.val = val;
+        this.next = next;
+    }
+}
+
+internal static class Program
+{
+    static void Main()
+    {
+    }
+
+    private static ListNode DeleteDuplicates(ListNode head)
+    {
+        ListNode temp = head;
+        while (temp != null && temp.next != null)
         {
-            Console.WriteLine("Hello, World!");
+            if (temp.val == temp.next.val)
+            {
+                temp.next = temp.next.next;
+            }
+            else
+            {
+                temp = temp.next;
+            }
         }
+
+        return head;
     }
 }
