@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListCycle_141", "Link
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses_20", "ValidParentheses_20\ValidParentheses_20.csproj", "{EAEEE749-55D4-464B-A2B6-1C94303EC302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePreorderTraversal_144", "BinaryTreePreorderTraversal_144\BinaryTreePreorderTraversal_144.csproj", "{F8F7E78C-E986-4EB9-B27B-CE4CFEA7EEE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreePreorderTraversal_144", "BinaryTreePreorderTraversal_144\BinaryTreePreorderTraversal_144.csproj", "{F8F7E78C-E986-4EB9-B27B-CE4CFEA7EEE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedList_83", "RemoveDuplicatesFromSortedList_83\RemoveDuplicatesFromSortedList_83.csproj", "{4B6C10E9-B861-4E82-87B5-A15864C8B120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedList_83", "RemoveDuplicatesFromSortedList_83\RemoveDuplicatesFromSortedList_83.csproj", "{4B6C10E9-B861-4E82-87B5-A15864C8B120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLinkedListElements_203", "RemoveLinkedListElements_203\RemoveLinkedListElements_203.csproj", "{3A1AE53A-EC5E-456C-9C11-D4C85C459472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveLinkedListElements_203", "RemoveLinkedListElements_203\RemoveLinkedListElements_203.csproj", "{3A1AE53A-EC5E-456C-9C11-D4C85C459472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeInorderTraversal_94", "BinaryTreeInorderTraversal_94\BinaryTreeInorderTraversal_94.csproj", "{E4E3524B-99CF-4DB4-9261-736418E948A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{3A1AE53A-EC5E-456C-9C11-D4C85C459472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A1AE53A-EC5E-456C-9C11-D4C85C459472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A1AE53A-EC5E-456C-9C11-D4C85C459472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E3524B-99CF-4DB4-9261-736418E948A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E3524B-99CF-4DB4-9261-736418E948A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E3524B-99CF-4DB4-9261-736418E948A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E3524B-99CF-4DB4-9261-736418E948A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
