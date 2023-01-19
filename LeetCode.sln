@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLinkedListElements_20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInABinarySearchTree_700", "SearchInABinarySearchTree_700\SearchInABinarySearchTree_700.csproj", "{A9B9ED43-8F39-4814-BDBA-3E46A86F57C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertIntoABinarySearchTree_701", "InsertIntoABinarySearchTree_701\InsertIntoABinarySearchTree_701.csproj", "{50F4A704-EAA2-46A8-903D-903557A95991}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{A9B9ED43-8F39-4814-BDBA-3E46A86F57C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9B9ED43-8F39-4814-BDBA-3E46A86F57C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9B9ED43-8F39-4814-BDBA-3E46A86F57C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F4A704-EAA2-46A8-903D-903557A95991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F4A704-EAA2-46A8-903D-903557A95991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F4A704-EAA2-46A8-903D-903557A95991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F4A704-EAA2-46A8-903D-903557A95991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
